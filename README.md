@@ -1,5 +1,12 @@
 # Emojify
 
+## Coursera - RNN Programming Assignment
+
+### Disclaimer:
+The given solutions in this project are only for reference purpose.
+
+### Description of experiment
+
 Welcome! We're going to use word vector representations to build an Emojifier. 🤩 💫 🔥
 
 Have you ever wanted to make your text messages more expressive? Your emojifier app will help you do that. Rather than writing:
@@ -39,3 +46,8 @@ By the end of this notebook, you'll be able to:
 👆 😎
 
 (^^^ Emoji for "skills")
+
+### Acknowledgements
+
+https://www.coursera.org/learn/nlp-sequence-models <br>
+https://www.deeplearning.ai/program/deep-learning-specialization/
